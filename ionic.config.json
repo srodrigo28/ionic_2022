@@ -1,0 +1,7 @@
+{
+  "name": "ioniAngula",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
